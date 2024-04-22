@@ -1,5 +1,5 @@
 Angular Dashboard
-
+basic implementation of the following :
 - login page
 - dashboard page
 - auth JWT with node
