@@ -7,4 +7,9 @@ Angular Dashboard
 - interceptors
 - services
   
+cd api 
+node app.js 
 
+
+cd angular
+ng serve 
