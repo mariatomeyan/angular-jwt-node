@@ -1,2 +1,10 @@
-# angular-with-node
-# angular-jwt-node
+Angular Dashboard
+
+- login page
+- dashboard page
+- auth JWT with node
+- user roles
+- interceptors
+- services
+  
+
