@@ -1,0 +1,29 @@
+mat-sidenav {
+ padding: 20px;
+  background: #323259;
+  min-width: 250px;
+  color: white;
+}
+
+mat-nav-list {
+  --mdc-list-list-item-label-text-color: white;
+  a {
+    background: rgba(255, 233, 233, 0.15);
+    margin-bottom: 8px;
+  }
+}
+mat-icon {
+  font-size: 30px;
+}
+
+mat-grid-tile {
+  color: white;
+  font-weight: bold;
+}
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+.spacer {
+  flex: 1 1 auto;
+}

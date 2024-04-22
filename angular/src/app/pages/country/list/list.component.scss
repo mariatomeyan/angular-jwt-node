@@ -1,0 +1,15 @@
+.app-country-list {
+  background: #f1f1f1;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.virtual-scroll-container {
+  width: 400px !important;
+  height: 900px !important;
+  margin: 20px !important;
+}
