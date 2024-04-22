@@ -11,5 +11,5 @@ cd api
 node app.js 
 
 
-cd angular
+cd angular 
 ng serve 
